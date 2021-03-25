@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-const exampleImage = require('../img/example.jpg');
+const exampleImage = require('../img/example.jpg').default;
 
 export default class Home extends Component {
   render() {

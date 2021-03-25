@@ -1,9 +1,9 @@
 {
-  "name": "bnk48-face-recognition",
+  "name": "pr02-Facial-Recognition-App",
   "version": "1.0.0",
   "private": true,
   "license": "MIT",
-  "homepage": "http://smojip.github.io/pr02_Facial_Recognition_App",
+  "homepage": "http://smojip.github.io/pr02-Facial-Recognition-App",
   "dependencies": {
     "face-api.js": "^0.16.1",
     "gh-pages": "^2.2.0",
