@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pr02_Facial_Recognition_App/static/css/main.f2c11bc6.chunk.css",
+    "main.js": "/pr02_Facial_Recognition_App/static/js/main.d99fe446.chunk.js",
+    "main.js.map": "/pr02_Facial_Recognition_App/static/js/main.d99fe446.chunk.js.map",
+    "runtime-main.js": "/pr02_Facial_Recognition_App/static/js/runtime-main.6ef4bbd2.js",
+    "runtime-main.js.map": "/pr02_Facial_Recognition_App/static/js/runtime-main.6ef4bbd2.js.map",
+    "static/js/2.53358a30.chunk.js": "/pr02_Facial_Recognition_App/static/js/2.53358a30.chunk.js",
+    "static/js/2.53358a30.chunk.js.map": "/pr02_Facial_Recognition_App/static/js/2.53358a30.chunk.js.map",
+    "index.html": "/pr02_Facial_Recognition_App/index.html",
+    "static/css/main.f2c11bc6.chunk.css.map": "/pr02_Facial_Recognition_App/static/css/main.f2c11bc6.chunk.css.map",
+    "static/js/2.53358a30.chunk.js.LICENSE.txt": "/pr02_Facial_Recognition_App/static/js/2.53358a30.chunk.js.LICENSE.txt",
+    "static/media/example.jpg": "/pr02_Facial_Recognition_App/static/media/example.eac5c617.jpg",
+    "static/media/test.jpg": "/pr02_Facial_Recognition_App/static/media/test.058d2545.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ef4bbd2.js",
+    "static/js/2.53358a30.chunk.js",
+    "static/css/main.f2c11bc6.chunk.css",
+    "static/js/main.d99fe446.chunk.js"
+  ]
+}
