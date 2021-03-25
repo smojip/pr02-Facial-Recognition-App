@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "private": true,
   "license": "MIT",
-  "homepage": "http://supachaic.github.io/bnk48-face-recognition",
+  "homepage": "http://smojip.github.io/pr02_Facial_Recognition_App",
   "dependencies": {
     "face-api.js": "^0.16.1",
-    "gh-pages": "^2.0.1",
+    "gh-pages": "^2.2.0",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-router-dom": "^4.3.1",
